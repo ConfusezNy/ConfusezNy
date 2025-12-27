@@ -1,16 +1,13 @@
-## Hi there 👋
+# Welcome to my space! 👋
 
-<!--
-**ConfusezNy/ConfusezNy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a Computer Engineering student 💻⚙️
 
-Here are some ideas to get you started:
+- 🛠️ Currently working on: Web Application for student projects
+- 🚀 Tech Stack: Next.js, Tailwind CSS, Prisma
+- 📫 How to reach me: natthachai2000.dev@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Skills
+[![My Skills](https://skillicons.dev/icons?i=nextjs,tailwind,prisma,js,ts,nodejs,postgres,docker)](https://skillicons.dev)
+
+### My Activity
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ชื่อUSERNAMEของคุณ&theme=react-dark)
