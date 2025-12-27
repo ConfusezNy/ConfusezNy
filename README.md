@@ -12,7 +12,7 @@ I'm a developer who loves building web applications, solving complex problems, a
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ชื่ออีเมลของคุณ@gmail.com)
 
 ### My Skills
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,prisma,js,ts,nodejs,postgres,mysql,git,postman,docker,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,prisma,js,ts,python,nodejs,postgres,mysql,git,postman,docker,aws)](https://skillicons.dev)
 
 ### My Activity
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ConfusezNy&theme=react-dark)
