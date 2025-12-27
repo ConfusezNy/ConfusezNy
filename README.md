@@ -10,4 +10,4 @@
 [![My Skills](https://skillicons.dev/icons?i=nextjs,tailwind,prisma,js,ts,nodejs,postgres,docker)](https://skillicons.dev)
 
 ### My Activity
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ชื่อUSERNAMEของคุณ&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ConfusezNy&theme=react-dark)
