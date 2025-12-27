@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natthachai-yimchai-333642399/)
 
 ### My Skills
-[![My Skills](https://skillicons.dev/icons?i=nextjs,tailwind,prisma,js,ts,nodejs,postgres,git,postman,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,prisma,js,ts,nodejs,postgres,mysql,git,postman,docker)](https://skillicons.dev)
 
 ### My Activity
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ConfusezNy&theme=react-dark)
